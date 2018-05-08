@@ -1,0 +1,2 @@
+# Smart-home
+Smart house (Android, Internet data base, CPU programming) – I created an android application, that controls a data base on Firebase (Internet data base). data base is read by a computer software (JSON).  Any changes on the data base induce the computer to send a message (using RS 232) to an MSP 430 CPU. every message creates a change in the CPU ports leading to the activation the of any electrical device connected to the CPU.
